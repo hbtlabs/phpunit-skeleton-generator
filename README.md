@@ -1,3 +1,15 @@
+# Fork implements
+
+Fixes:
+
+- fix for https://github.com/sebastianbergmann/phpunit-skeleton-generator/issues/16 
+
+Features:
+
+- 
+
+
+
 # PHPUnit Skeleton Generator
 
 `phpunit-skelgen` is a tool that can generate skeleton test classes from production code classes and vice versa.
