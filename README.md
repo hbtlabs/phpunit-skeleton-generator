@@ -6,7 +6,8 @@ Fixes:
 
 Features:
 
-- 
+- https://github.com/sebastianbergmann/phpunit-skeleton-generator/issues/43
+
 
 
 
