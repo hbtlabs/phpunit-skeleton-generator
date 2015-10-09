@@ -9,6 +9,8 @@ Features:
 - https://github.com/sebastianbergmann/phpunit-skeleton-generator/issues/43
 
 
+Status:
+    Mature + Active and used in "backup" (bitbucket) project
 
 
 # PHPUnit Skeleton Generator
